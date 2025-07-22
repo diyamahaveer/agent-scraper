@@ -1,0 +1,1 @@
+I'm trying to collect the first and last name, email, and phone number of all the therapists on this website: xyz. Type in the zipcode 03062 and search. Go through each therapist and find their personal website and get me their email, name, and phone number.
